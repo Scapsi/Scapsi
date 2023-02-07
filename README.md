@@ -1,4 +1,6 @@
- Hi, I'm SCAPSI 👋
+ ### Hi, I'm SCAPSI 👋
+ <hr>
+ <h2>I'm studying to become a Frontend Developer.</h2>
 
 - 🔭 I’m currently working on New projects
 - 🌱 I’m currently learning REACT
@@ -7,3 +9,7 @@
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: frankuladpp@gmail.com
 - ⚡ Fun fact: I love music especailly Afrobeats,I have two favorite KENDRICK LAMAR AND BURNA BOY
+<hr>
+
+
+
