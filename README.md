@@ -1,6 +1,6 @@
  ### Hi, I'm SCAPSI 👋
  <hr>
- <h2>I'm studying to become a Frontend Developer.</h2>
+ <h2>I'm studying to become a Fullstack Developer.</h2>
 
 - 🔭 I’m currently working on New projects
 - 🌱 I’m currently learning REACT
