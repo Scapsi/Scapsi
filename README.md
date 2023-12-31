@@ -3,7 +3,7 @@
  <h2>I'm studying to become a Fullstack Developer.</h2>
 
 - 🔭 I’m currently working on New projects
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on client-side technologies
 - 🤔 I’m looking for help with with modern JS
 - 💬 Ask me about ANYTHING
